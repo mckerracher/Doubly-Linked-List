@@ -1,3 +1,3 @@
 # Doubly-Linked-List
-Implements the IndexedUnsortedList interface which includes all standard methods used in doubly linked lists along with an
-implementation of an iterator. The bulk of the code is in the IUDoubleLinkedList.java file.
+## Boise State University CS221 Portfolio Assignment: Implement a doubly-linked-list
+The architecture for this doubly-linked-list is defined in the IUDoubleLinkedList.java file, which includes all of the methods that must be included, along with their required arguments and the kind exception each must throw. The generic Java Type <T> is used, which enforces data type uniformity across methods.
